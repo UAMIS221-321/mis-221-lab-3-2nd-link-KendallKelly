@@ -1,0 +1,15 @@
+/Users/kendall/Desktop/Repositories/Labs/mis-221-lab-3-2nd-link-KendallKelly/bin/Debug/net8.0/mis-221-lab-3-2nd-link-KendallKelly
+/Users/kendall/Desktop/Repositories/Labs/mis-221-lab-3-2nd-link-KendallKelly/bin/Debug/net8.0/mis-221-lab-3-2nd-link-KendallKelly.deps.json
+/Users/kendall/Desktop/Repositories/Labs/mis-221-lab-3-2nd-link-KendallKelly/bin/Debug/net8.0/mis-221-lab-3-2nd-link-KendallKelly.runtimeconfig.json
+/Users/kendall/Desktop/Repositories/Labs/mis-221-lab-3-2nd-link-KendallKelly/bin/Debug/net8.0/mis-221-lab-3-2nd-link-KendallKelly.dll
+/Users/kendall/Desktop/Repositories/Labs/mis-221-lab-3-2nd-link-KendallKelly/bin/Debug/net8.0/mis-221-lab-3-2nd-link-KendallKelly.pdb
+/Users/kendall/Desktop/Repositories/Labs/mis-221-lab-3-2nd-link-KendallKelly/obj/Debug/net8.0/mis-221-lab-3-2nd-link-KendallKelly.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kendall/Desktop/Repositories/Labs/mis-221-lab-3-2nd-link-KendallKelly/obj/Debug/net8.0/mis-221-lab-3-2nd-link-KendallKelly.AssemblyInfoInputs.cache
+/Users/kendall/Desktop/Repositories/Labs/mis-221-lab-3-2nd-link-KendallKelly/obj/Debug/net8.0/mis-221-lab-3-2nd-link-KendallKelly.AssemblyInfo.cs
+/Users/kendall/Desktop/Repositories/Labs/mis-221-lab-3-2nd-link-KendallKelly/obj/Debug/net8.0/mis-221-lab-3-2nd-link-KendallKelly.csproj.CoreCompileInputs.cache
+/Users/kendall/Desktop/Repositories/Labs/mis-221-lab-3-2nd-link-KendallKelly/obj/Debug/net8.0/mis-221-lab-3-2nd-link-KendallKelly.sourcelink.json
+/Users/kendall/Desktop/Repositories/Labs/mis-221-lab-3-2nd-link-KendallKelly/obj/Debug/net8.0/mis-221-lab-3-2nd-link-KendallKelly.dll
+/Users/kendall/Desktop/Repositories/Labs/mis-221-lab-3-2nd-link-KendallKelly/obj/Debug/net8.0/refint/mis-221-lab-3-2nd-link-KendallKelly.dll
+/Users/kendall/Desktop/Repositories/Labs/mis-221-lab-3-2nd-link-KendallKelly/obj/Debug/net8.0/mis-221-lab-3-2nd-link-KendallKelly.pdb
+/Users/kendall/Desktop/Repositories/Labs/mis-221-lab-3-2nd-link-KendallKelly/obj/Debug/net8.0/mis-221-lab-3-2nd-link-KendallKelly.genruntimeconfig.cache
+/Users/kendall/Desktop/Repositories/Labs/mis-221-lab-3-2nd-link-KendallKelly/obj/Debug/net8.0/ref/mis-221-lab-3-2nd-link-KendallKelly.dll
